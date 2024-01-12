@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: black;
+    text-align: center;
+    color: white;
+    position: sticky;
+    top: 0px;
+}
+.navbar a{
+    text-decoration: none;
+    color: tomato;
+    margin-right: 5px;
+}
+.about h1, .section h1{
+    text-align: center;
+}
+
+.about img{
+    margin-left: 35%;
+    border-radius: 50%;
+    height: 30%;
+    width: 30%;
+}
+.footer{
+    background-color:rgb(95, 112, 128);
+    text-align: center;
+    color: white;
+    
+}
+.footer a{
+    text-decoration: none;
+    color: tomato;
+    margin-right: 5px;
+}
